@@ -1,2 +1,2 @@
 # practica
-Repositorio de práctica
+Repositorio de práctica de listas
